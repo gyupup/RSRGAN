@@ -1,0 +1,26 @@
+<annotation>
+	<folder>add</folder>
+	<filename>221.png</filename>
+	<path>/media/nvidia/Elements/add/221.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>80</width>
+		<height>80</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>plane</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>17</xmin>
+			<ymin>24</ymin>
+			<xmax>69</xmax>
+			<ymax>57</ymax>
+		</bndbox>
+	</object>
+</annotation>

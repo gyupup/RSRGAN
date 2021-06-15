@@ -1,0 +1,26 @@
+<annotation>
+	<folder>results</folder>
+	<filename>661.png</filename>
+	<path>/home/nvidia/桌面/results/661.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>512</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>plane</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>264</xmin>
+			<ymin>291</ymin>
+			<xmax>281</xmax>
+			<ymax>306</ymax>
+		</bndbox>
+	</object>
+</annotation>

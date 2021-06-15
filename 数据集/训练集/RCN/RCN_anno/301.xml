@@ -1,0 +1,26 @@
+<annotation>
+	<folder>results</folder>
+	<filename>540.png</filename>
+	<path>/home/nvidia/桌面/results/540.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>512</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>plane</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>100</xmin>
+			<ymin>350</ymin>
+			<xmax>114</xmax>
+			<ymax>362</ymax>
+		</bndbox>
+	</object>
+</annotation>

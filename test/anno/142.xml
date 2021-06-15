@@ -1,0 +1,26 @@
+<annotation>
+	<folder>image</folder>
+	<filename>142.png</filename>
+	<path>/home/nvidia/RCN+GAN/test/image/142.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>512</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>plane</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>371</xmin>
+			<ymin>135</ymin>
+			<xmax>385</xmax>
+			<ymax>145</ymax>
+		</bndbox>
+	</object>
+</annotation>

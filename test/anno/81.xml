@@ -1,0 +1,26 @@
+<annotation>
+	<folder>image</folder>
+	<filename>81.png</filename>
+	<path>/home/nvidia/RCN+GAN/test/image/81.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>512</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>plane</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>345</xmin>
+			<ymin>130</ymin>
+			<xmax>359</xmax>
+			<ymax>139</ymax>
+		</bndbox>
+	</object>
+</annotation>

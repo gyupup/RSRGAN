@@ -1,0 +1,26 @@
+<annotation>
+	<folder>1</folder>
+	<filename>448.png</filename>
+	<path>/media/84EACD1CEACD0AFE/数据集111111111111111111111111/1/448.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>512</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>plane</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>372</xmin>
+			<ymin>136</ymin>
+			<xmax>390</xmax>
+			<ymax>150</ymax>
+		</bndbox>
+	</object>
+</annotation>

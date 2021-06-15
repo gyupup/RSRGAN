@@ -1,0 +1,26 @@
+<annotation>
+	<folder>results</folder>
+	<filename>235.png</filename>
+	<path>/home/nvidia/桌面/results/235.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>512</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>plane</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>507</xmin>
+			<ymin>40</ymin>
+			<xmax>526</xmax>
+			<ymax>55</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>add</folder>
+	<filename>482.png</filename>
+	<path>/media/nvidia/Elements/add/482.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>80</width>
+		<height>80</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>plane</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2</xmin>
+			<ymin>13</ymin>
+			<xmax>67</xmax>
+			<ymax>49</ymax>
+		</bndbox>
+	</object>
+</annotation>

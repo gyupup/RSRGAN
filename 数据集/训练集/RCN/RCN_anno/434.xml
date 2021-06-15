@@ -1,0 +1,26 @@
+<annotation>
+	<folder>results</folder>
+	<filename>787.png</filename>
+	<path>/home/nvidia/桌面/results/787.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>512</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>plane</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>134</xmin>
+			<ymin>132</ymin>
+			<xmax>144</xmax>
+			<ymax>140</ymax>
+		</bndbox>
+	</object>
+</annotation>

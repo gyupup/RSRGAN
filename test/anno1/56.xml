@@ -1,0 +1,26 @@
+<annotation>
+	<folder>测试集</folder>
+	<filename>21.png</filename>
+	<path>/media/84EACD1CEACD0AFE/实验/数据集/测试集/21.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>512</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>plane</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>277</xmin>
+			<ymin>153</ymin>
+			<xmax>297</xmax>
+			<ymax>168</ymax>
+		</bndbox>
+	</object>
+</annotation>

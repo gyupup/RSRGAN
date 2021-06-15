@@ -1,0 +1,26 @@
+<annotation>
+	<folder>results</folder>
+	<filename>1223.png</filename>
+	<path>/home/nvidia/Desktop/results/1223.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>512</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>plane</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>151</xmin>
+			<ymin>255</ymin>
+			<xmax>164</xmax>
+			<ymax>266</ymax>
+		</bndbox>
+	</object>
+</annotation>

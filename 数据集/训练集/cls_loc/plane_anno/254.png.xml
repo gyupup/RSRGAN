@@ -1,0 +1,26 @@
+<annotation>
+	<folder>plane2</folder>
+	<filename>254.png.png</filename>
+	<path>/media/84EACD1CEACD0AFE/实验2/数据集/训练集/cls_loc/plane2/254.png.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>80</width>
+		<height>80</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>plane</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>19</xmin>
+			<ymin>24</ymin>
+			<xmax>72</xmax>
+			<ymax>71</ymax>
+		</bndbox>
+	</object>
+</annotation>

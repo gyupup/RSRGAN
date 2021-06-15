@@ -1,0 +1,26 @@
+<annotation>
+	<folder>results</folder>
+	<filename>830.png</filename>
+	<path>/home/nvidia/桌面/results/830.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>512</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>plane</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>206</xmin>
+			<ymin>174</ymin>
+			<xmax>222</xmax>
+			<ymax>185</ymax>
+		</bndbox>
+	</object>
+</annotation>

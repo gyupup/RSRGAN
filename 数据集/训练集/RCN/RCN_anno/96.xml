@@ -1,0 +1,26 @@
+<annotation>
+	<folder>results</folder>
+	<filename>138.png</filename>
+	<path>/home/nvidia/桌面/results/138.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>512</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>plane</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>524</xmin>
+			<ymin>65</ymin>
+			<xmax>541</xmax>
+			<ymax>79</ymax>
+		</bndbox>
+	</object>
+</annotation>
